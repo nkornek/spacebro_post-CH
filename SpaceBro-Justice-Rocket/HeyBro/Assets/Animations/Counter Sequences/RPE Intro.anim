@@ -1,0 +1,3436 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RPE Intro
+  serializedVersion: 4
+  m_AnimationType: 2
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .200000003
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 13
+      - time: .400000006
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 13
+      - time: .600000024
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 102020084
+      - time: .800000012
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1.20000005
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 39
+      - time: 1.4000001
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1087373312
+      - time: 1.60000014
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 16777473
+      - time: 1.80000019
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 2.00000024
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 351
+      - time: 2.20000029
+        value: {x: 0, y: 0, z: -.00294971303, w: .999995649}
+        inSlope: {x: 0, y: 0, z: 2.50725079, w: -2.47522449}
+        outSlope: {x: 0, y: 0, z: 2.50725079, w: -2.47522449}
+        tangentMode: 1994620771
+      - time: 2.40000033
+        value: {x: -0, y: -0, z: .999950945, w: .00990557764}
+        inSlope: {x: 0, y: 0, z: 2.50735784, w: -2.50877929}
+        outSlope: {x: 0, y: 0, z: 2.50735784, w: -2.50877929}
+        tangentMode: -1069547520
+      - time: 2.60000038
+        value: {x: -0, y: -0, z: .999993801, w: -.00351638463}
+        inSlope: {x: 0, y: 0, z: -.000305920781, w: -.0710549057}
+        outSlope: {x: 0, y: 0, z: -.000305920781, w: -.0710549057}
+        tangentMode: 6
+      - time: 2.80000043
+        value: {x: -0, y: -0, z: .999828577, w: -.0185163915}
+        inSlope: {x: 0, y: 0, z: -.000413060101, w: -.0375000089}
+        outSlope: {x: 0, y: 0, z: -.000413060101, w: -.0375000089}
+        tangentMode: 120524612
+      - time: 3.00000048
+        value: {x: -0, y: -0, z: .999828577, w: -.0185163915}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 96
+      - time: 3.20000005
+        value: {x: -0, y: -0, z: .999828577, w: -.0185163915}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 4
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 8
+      - time: .200000003
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 16
+      - time: .400000006
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .600000024
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: .800000012
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1.20000005
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 5
+      - time: 1.4000001
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 1.60000014
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: -1
+      - time: 1.80000019
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 2.00000024
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 32
+      - time: 2.20000029
+        value: {x: -0, y: -0, z: -.0601716265, w: .998188019}
+        inSlope: {x: 0, y: 0, z: 2.63477683, w: -2.21615982}
+        outSlope: {x: 0, y: 0, z: 2.63477683, w: -2.21615982}
+        tangentMode: 1
+      - time: 2.40000033
+        value: {x: 0, y: 0, z: .993739307, w: .111723885}
+        inSlope: {x: 0, y: 0, z: 2.63839531, w: -2.25047731}
+        outSlope: {x: 0, y: 0, z: 2.63839531, w: -2.25047731}
+        tangentMode: 0
+      - time: 2.60000038
+        value: {x: 0, y: 0, z: .995186746, w: .0979968533}
+        inSlope: {x: 0, y: 0, z: .00710189156, w: -.0727270544}
+        outSlope: {x: 0, y: 0, z: .00710189156, w: -.0727270544}
+        tangentMode: 0
+      - time: 2.80000043
+        value: {x: 0, y: 0, z: .996580064, w: .0826330557}
+        inSlope: {x: 0, y: 0, z: .00348329451, w: -.0384094864}
+        outSlope: {x: 0, y: 0, z: .00348329451, w: -.0384094864}
+        tangentMode: 0
+      - time: 3.00000048
+        value: {x: 0, y: 0, z: .996580064, w: .0826330557}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 1
+      - time: 3.20000005
+        value: {x: 0, y: 0, z: .996580064, w: .0826330557}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -0, z: .00241708267, w: -.999997079}
+        inSlope: {x: 0, y: 0, z: 1.68686759, w: .297479928}
+        outSlope: {x: 0, y: 0, z: 1.68686759, w: .297479928}
+        tangentMode: 0
+      - time: .200000003
+        value: {x: -0, y: -0, z: .339790612, w: -.940501094}
+        inSlope: {x: 0, y: 0, z: 1.63578045, w: .614676774}
+        outSlope: {x: 0, y: 0, z: 1.63578045, w: .614676774}
+        tangentMode: 108544084
+      - time: .400000006
+        value: {x: -0, y: -0, z: .656729281, w: -.75412637}
+        inSlope: {x: 0, y: 0, z: 1.34771442, w: 1.1586287}
+        outSlope: {x: 0, y: 0, z: 1.34771442, w: 1.1586287}
+        tangentMode: 0
+      - time: .600000024
+        value: {x: -0, y: -0, z: .878876388, w: -.477049589}
+        inSlope: {x: 0, y: 0, z: .812585473, w: 1.4100498}
+        outSlope: {x: 0, y: 0, z: .812585473, w: 1.4100498}
+        tangentMode: -1
+      - time: .800000012
+        value: {x: -0, y: -0, z: .981763482, w: -.190106422}
+        inSlope: {x: 0, y: 0, z: .301996499, w: 1.25635839}
+        outSlope: {x: 0, y: 0, z: .301996499, w: 1.25635839}
+        tangentMode: 1835090809
+      - time: 1
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: .0339996889, w: .715732336}
+        outSlope: {x: 0, y: 0, z: .0339996889, w: .715732336}
+        tangentMode: 339
+      - time: 1.20000005
+        value: {x: -0, y: -0, z: .995363355, w: .0961865187}
+        inSlope: {x: 0, y: 0, z: -.0038245311, w: .0884616673}
+        outSlope: {x: 0, y: 0, z: -.0038245311, w: .0884616673}
+        tangentMode: 0
+      - time: 1.4000001
+        value: {x: -0, y: -0, z: .998145163, w: .0608784407}
+        inSlope: {x: 0, y: 0, z: .0107790502, w: -.176731855}
+        outSlope: {x: 0, y: 0, z: .0107790502, w: -.176731855}
+        tangentMode: 513024120
+      - time: 1.60000014
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: .0038245311, w: -.0884616747}
+        outSlope: {x: 0, y: 0, z: .0038245311, w: -.0884616747}
+        tangentMode: 0
+      - time: 1.80000019
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 13204
+      - time: 2.00000024
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 76
+      - time: 2.20000029
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 120066440
+      - time: 2.40000033
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 2.60000038
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 106102820
+      - time: 2.80000043
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+      - time: 3.00000048
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 200
+      - time: 3.20000005
+        value: {x: -0, y: -0, z: .999674976, w: .0254937634}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 15
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 113893736
+      - time: .800000012
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 989002665
+      - time: 1
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.60000002
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 1.79999995
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1065353216
+      - time: 2
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1848
+      - time: 2.20000005
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.22000003
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.79999995
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3.20000005
+        value: {x: .856811523, y: 154.214478, z: 24.7988243}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: 
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -.510077, y: 0, z: 0}
+        inSlope: {x: 0, y: -63.0259819, z: 0}
+        outSlope: {x: 0, y: -63.0259819, z: 0}
+        tangentMode: 0
+      - time: .600000024
+        value: {x: -.510077, y: -37.8155899, z: 0}
+        inSlope: {x: 0, y: -31.512991, z: 0}
+        outSlope: {x: 0, y: -31.512991, z: 0}
+        tangentMode: 0
+      - time: .800000012
+        value: {x: -.510077, y: -37.8155899, z: 0}
+        inSlope: {x: 0, y: 63.0416985, z: 0}
+        outSlope: {x: 0, y: 63.0416985, z: 0}
+        tangentMode: 57
+      - time: 1
+        value: {x: -.510077, y: -12.5989103, z: 0}
+        inSlope: {x: 0, y: 63.0416985, z: 0}
+        outSlope: {x: 0, y: 63.0416985, z: 0}
+        tangentMode: 0
+      - time: 1.60000002
+        value: {x: -.510077, y: -12.5989103, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1127415808
+      - time: 1.79999995
+        value: {x: -.510077, y: -12.5989103, z: 0}
+        inSlope: {x: 0, y: .0667047352, z: 0}
+        outSlope: {x: 0, y: .0667047352, z: 0}
+        tangentMode: -1
+      - time: 2.20000005
+        value: {x: -.510077, y: -12.5455465, z: 0}
+        inSlope: {x: 24.5862846, y: 92.7391891, z: 0}
+        outSlope: {x: 24.5862846, y: 92.7391891, z: 0}
+        tangentMode: 0
+      - time: 2.22000003
+        value: {x: .473373473, y: -8.8386507, z: 0}
+        inSlope: {x: 24.5862846, y: 0, z: 0}
+        outSlope: {x: 24.5862846, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.79999995
+        value: {x: .473373473, y: -33.902462, z: 0}
+        inSlope: {x: 0, y: -21.6067371, z: 0}
+        outSlope: {x: 0, y: -21.6067371, z: 0}
+        tangentMode: 1134198784
+      - time: 3
+        value: {x: .473373473, y: -33.902462, z: 0}
+        inSlope: {x: 0, y: 50.9189949, z: 0}
+        outSlope: {x: 0, y: 50.9189949, z: 0}
+        tangentMode: 31
+      - time: 3.20000005
+        value: {x: .473373473, y: -13.5348587, z: 0}
+        inSlope: {x: 0, y: 101.83799, z: 0}
+        outSlope: {x: 0, y: 101.83799, z: 0}
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: -49.0759239, z: 0}
+        outSlope: {x: 0, y: -49.0759239, z: 0}
+        tangentMode: 0
+      - time: .600000024
+        value: {x: 0, y: -29.4455566, z: 0}
+        inSlope: {x: 0, y: -24.537962, z: 0}
+        outSlope: {x: 0, y: -24.537962, z: 0}
+        tangentMode: 0
+      - time: .800000012
+        value: {x: 0, y: -29.4455566, z: 0}
+        inSlope: {x: 0, y: 63.0418053, z: 0}
+        outSlope: {x: 0, y: 63.0418053, z: 0}
+        tangentMode: 57
+      - time: 1
+        value: {x: 0, y: -4.22883511, z: 0}
+        inSlope: {x: 0, y: 44.4844856, z: 0}
+        outSlope: {x: 0, y: 44.4844856, z: 0}
+        tangentMode: 0
+      - time: 1.60000002
+        value: {x: 0, y: -26.4976177, z: 0}
+        inSlope: {x: 0, y: -18.5573196, z: 0}
+        outSlope: {x: 0, y: -18.5573196, z: 0}
+        tangentMode: 1127415808
+      - time: 1.79999995
+        value: {x: 0, y: -26.4976177, z: 0}
+        inSlope: {x: 0, y: 56.9158974, z: 0}
+        outSlope: {x: 0, y: 56.9158974, z: 0}
+        tangentMode: -1
+      - time: 2
+        value: {x: 0, y: -3.73125291, z: 0}
+        inSlope: {x: 0, y: 56.9158974, z: 0}
+        outSlope: {x: 0, y: 56.9158974, z: 0}
+        tangentMode: 0
+      - time: 2.20000005
+        value: {x: 0, y: -3.73125291, z: 0}
+        inSlope: {x: 7.21482134, y: -208.552032, z: 0}
+        outSlope: {x: 7.21482134, y: -208.552032, z: 0}
+        tangentMode: 0
+      - time: 2.22000003
+        value: {x: .288592577, y: -12.0733261, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1134198784
+      - time: 2.79999995
+        value: {x: .288592577, y: -42.2631912, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 31
+      - time: 3
+        value: {x: .288592577, y: -42.2631912, z: 0}
+        inSlope: {x: 0, y: 50.9189644, z: 0}
+        outSlope: {x: 0, y: 50.9189644, z: 0}
+        tangentMode: 31
+      - time: 3.20000005
+        value: {x: .288592577, y: -21.8956013, z: 0}
+        inSlope: {x: 0, y: 101.837929, z: 0}
+        outSlope: {x: 0, y: 101.837929, z: 0}
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -11.345994, z: 0}
+        inSlope: {x: -.347387731, y: -2.74484158, z: 0}
+        outSlope: {x: -.347387731, y: -2.74484158, z: 0}
+        tangentMode: 1109655552
+      - time: 1
+        value: {x: -.347387731, y: -14.0908356, z: 0}
+        inSlope: {x: -.173693866, y: 0, z: 0}
+        outSlope: {x: -.173693866, y: -33.461319, z: 0}
+        tangentMode: 0
+      - time: 1.60000002
+        value: {x: -.347387731, y: -36.3595848, z: 0}
+        inSlope: {x: 0, y: -80.1281357, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1123418112
+      - time: 1.79999995
+        value: {x: -.347387731, y: -36.3595848, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2
+        value: {x: -.347387731, y: -13.5932369, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1127415808
+      - time: 2.20000005
+        value: {x: -.347387731, y: -13.5932369, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 2.22000003
+        value: {x: -.347387731, y: -13.5932369, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1131741184
+      - time: 2.79999995
+        value: {x: -.347387731, y: -13.5932369, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 3
+        value: {x: -.347387731, y: -13.5932369, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 1134198784
+      - time: 3.20000005
+        value: {x: -.347387731, y: -13.5932369, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .800000012
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.60000002
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.22000003
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Counter Enemy Parts/ROCKPAPERELBOW
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .800000012
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.60000002
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.79999995
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.22000003
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .800000012
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.60000002
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.22000003
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.60000002
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.20000005
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.22000003
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.79999995
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.20000005
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 1
+    script: {fileID: 0}
+  m_PPtrCurves: []
+  m_SampleRate: 50
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 3278447429
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1733584310
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2739908776
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1733584310
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3278447429
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2739908776
+      attribute: 2
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 4176318768
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 3278447429
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1733584310
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2739908776
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 0
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 3.20000005
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .800000012
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.60000002
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.22000003
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Counter Enemy Parts/ROCKPAPERELBOW
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .800000012
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: .856811523
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .800000012
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 154.214478
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .800000012
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 24.7988243
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: 
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .800000012
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.60000002
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.79999995
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.22000003
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: .800000012
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.60000002
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.22000003
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.20000005
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.510077
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .600000024
+        value: -.510077
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .800000012
+        value: -.510077
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: -.510077
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: -.510077
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: -.510077
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: -.510077
+        inSlope: 24.5862846
+        outSlope: 24.5862846
+        tangentMode: 10
+      - time: 2.22000003
+        value: .473373473
+        inSlope: 24.5862846
+        outSlope: 24.5862846
+        tangentMode: 10
+      - time: 2.79999995
+        value: .473373473
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: .473373473
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: .473373473
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -63.0259819
+        outSlope: -63.0259819
+        tangentMode: 10
+      - time: .600000024
+        value: -37.8155899
+        inSlope: -31.512991
+        outSlope: -31.512991
+        tangentMode: 10
+      - time: .800000012
+        value: -37.8155899
+        inSlope: 63.0416985
+        outSlope: 63.0416985
+        tangentMode: 10
+      - time: 1
+        value: -12.5989103
+        inSlope: 63.0416985
+        outSlope: 63.0416985
+        tangentMode: 10
+      - time: 1.60000002
+        value: -12.5989103
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: -12.5989103
+        inSlope: .0667047352
+        outSlope: .0667047352
+        tangentMode: 10
+      - time: 2.20000005
+        value: -12.5455465
+        inSlope: 92.7391891
+        outSlope: 92.7391891
+        tangentMode: 10
+      - time: 2.22000003
+        value: -8.8386507
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.79999995
+        value: -33.902462
+        inSlope: -21.6067371
+        outSlope: -21.6067371
+        tangentMode: 10
+      - time: 3
+        value: -33.902462
+        inSlope: 50.9189949
+        outSlope: 50.9189949
+        tangentMode: 10
+      - time: 3.20000005
+        value: -13.5348587
+        inSlope: 101.83799
+        outSlope: 101.83799
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: 0
+        inSlope: 7.21482134
+        outSlope: 7.21482134
+        tangentMode: 10
+      - time: 2.22000003
+        value: .288592577
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.79999995
+        value: .288592577
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3
+        value: .288592577
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: .288592577
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -49.0759239
+        outSlope: -49.0759239
+        tangentMode: 10
+      - time: .600000024
+        value: -29.4455566
+        inSlope: -24.537962
+        outSlope: -24.537962
+        tangentMode: 10
+      - time: .800000012
+        value: -29.4455566
+        inSlope: 63.0418053
+        outSlope: 63.0418053
+        tangentMode: 10
+      - time: 1
+        value: -4.22883511
+        inSlope: 44.4844856
+        outSlope: 44.4844856
+        tangentMode: 10
+      - time: 1.60000002
+        value: -26.4976177
+        inSlope: -18.5573196
+        outSlope: -18.5573196
+        tangentMode: 10
+      - time: 1.79999995
+        value: -26.4976177
+        inSlope: 56.9158974
+        outSlope: 56.9158974
+        tangentMode: 10
+      - time: 2
+        value: -3.73125291
+        inSlope: 56.9158974
+        outSlope: 56.9158974
+        tangentMode: 10
+      - time: 2.20000005
+        value: -3.73125291
+        inSlope: -208.552032
+        outSlope: -208.552032
+        tangentMode: 10
+      - time: 2.22000003
+        value: -12.0733261
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.79999995
+        value: -42.2631912
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3
+        value: -42.2631912
+        inSlope: 50.9189644
+        outSlope: 50.9189644
+        tangentMode: 10
+      - time: 3.20000005
+        value: -21.8956013
+        inSlope: 101.837929
+        outSlope: 101.837929
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .600000024
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: .800000012
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.60000002
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 1.79999995
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.20000005
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.22000003
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 2.79999995
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 3.20000005
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_IsActive
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.z
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -11.345994
+        inSlope: -2.74484158
+        outSlope: -2.74484158
+        tangentMode: 10
+      - time: 1
+        value: -14.0908356
+        inSlope: 0
+        outSlope: -33.461319
+        tangentMode: 1
+      - time: 1.60000002
+        value: -36.3595848
+        inSlope: -80.1281357
+        outSlope: 0
+        tangentMode: 1
+      - time: 1.79999995
+        value: -36.3595848
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2
+        value: -13.5932369
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000005
+        value: -13.5932369
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.22000003
+        value: -13.5932369
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.79999995
+        value: -13.5932369
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3
+        value: -13.5932369
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: -13.5932369
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.y
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: -.347387731
+        outSlope: -.347387731
+        tangentMode: 10
+      - time: 1
+        value: -.347387731
+        inSlope: -.173693866
+        outSlope: -.173693866
+        tangentMode: 10
+      - time: 1.60000002
+        value: -.347387731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: -.347387731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: -.347387731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: -.347387731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: -.347387731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: -.347387731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: -.347387731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: -.347387731
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalPosition.x
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: .999995649
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: .999995649
+        inSlope: -2.47522449
+        outSlope: -2.47522449
+        tangentMode: 0
+      - time: 2.40000033
+        value: .00990557764
+        inSlope: -2.50877929
+        outSlope: -2.50877929
+        tangentMode: 0
+      - time: 2.60000038
+        value: -.00351638463
+        inSlope: -.0710549057
+        outSlope: -.0710549057
+        tangentMode: 0
+      - time: 2.80000043
+        value: -.0185163915
+        inSlope: -.0375000089
+        outSlope: -.0375000089
+        tangentMode: 0
+      - time: 3.00000048
+        value: -.0185163915
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: -.0185163915
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: -.00294971303
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: -.00294971303
+        inSlope: 2.50725079
+        outSlope: 2.50725079
+        tangentMode: 0
+      - time: 2.40000033
+        value: .999950945
+        inSlope: 2.50735784
+        outSlope: 2.50735784
+        tangentMode: 0
+      - time: 2.60000038
+        value: .999993801
+        inSlope: -.000305920781
+        outSlope: -.000305920781
+        tangentMode: 0
+      - time: 2.80000043
+        value: .999828577
+        inSlope: -.000413060101
+        outSlope: -.000413060101
+        tangentMode: 0
+      - time: 3.00000048
+        value: .999828577
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: .999828577
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.40000033
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.60000038
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.80000043
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.00000048
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.40000033
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.60000038
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.80000043
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.00000048
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: .998188019
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: .998188019
+        inSlope: -2.21615982
+        outSlope: -2.21615982
+        tangentMode: 0
+      - time: 2.40000033
+        value: .111723885
+        inSlope: -2.25047731
+        outSlope: -2.25047731
+        tangentMode: 0
+      - time: 2.60000038
+        value: .0979968533
+        inSlope: -.0727270544
+        outSlope: -.0727270544
+        tangentMode: 0
+      - time: 2.80000043
+        value: .0826330557
+        inSlope: -.0384094864
+        outSlope: -.0384094864
+        tangentMode: 0
+      - time: 3.00000048
+        value: .0826330557
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: .0826330557
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: -.0601716265
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: -.0601716265
+        inSlope: 2.63477683
+        outSlope: 2.63477683
+        tangentMode: 0
+      - time: 2.40000033
+        value: .993739307
+        inSlope: 2.63839531
+        outSlope: 2.63839531
+        tangentMode: 0
+      - time: 2.60000038
+        value: .995186746
+        inSlope: .00710189156
+        outSlope: .00710189156
+        tangentMode: 0
+      - time: 2.80000043
+        value: .996580064
+        inSlope: .00348329451
+        outSlope: .00348329451
+        tangentMode: 0
+      - time: 3.00000048
+        value: .996580064
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: .996580064
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.40000033
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.60000038
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.80000043
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.00000048
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.40000033
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.60000038
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.80000043
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.00000048
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.40000033
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.60000038
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.80000043
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.00000048
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.x
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .200000003
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .400000006
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .600000024
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: .800000012
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.20000005
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.4000001
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.60000014
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.80000019
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.40000033
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.60000038
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.80000043
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.00000048
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: -0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.y
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: .00241708267
+        inSlope: 1.68686759
+        outSlope: 1.68686759
+        tangentMode: 0
+      - time: .200000003
+        value: .339790612
+        inSlope: 1.63578045
+        outSlope: 1.63578045
+        tangentMode: 0
+      - time: .400000006
+        value: .656729281
+        inSlope: 1.34771442
+        outSlope: 1.34771442
+        tangentMode: 0
+      - time: .600000024
+        value: .878876388
+        inSlope: .812585473
+        outSlope: .812585473
+        tangentMode: 0
+      - time: .800000012
+        value: .981763482
+        inSlope: .301996499
+        outSlope: .301996499
+        tangentMode: 0
+      - time: 1
+        value: .999674976
+        inSlope: .0339996889
+        outSlope: .0339996889
+        tangentMode: 0
+      - time: 1.20000005
+        value: .995363355
+        inSlope: -.0038245311
+        outSlope: -.0038245311
+        tangentMode: 0
+      - time: 1.4000001
+        value: .998145163
+        inSlope: .0107790502
+        outSlope: .0107790502
+        tangentMode: 0
+      - time: 1.60000014
+        value: .999674976
+        inSlope: .0038245311
+        outSlope: .0038245311
+        tangentMode: 0
+      - time: 1.80000019
+        value: .999674976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: .999674976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: .999674976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.40000033
+        value: .999674976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.60000038
+        value: .999674976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.80000043
+        value: .999674976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.00000048
+        value: .999674976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: .999674976
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.z
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.999997079
+        inSlope: .297479928
+        outSlope: .297479928
+        tangentMode: 0
+      - time: .200000003
+        value: -.940501094
+        inSlope: .614676774
+        outSlope: .614676774
+        tangentMode: 0
+      - time: .400000006
+        value: -.75412637
+        inSlope: 1.1586287
+        outSlope: 1.1586287
+        tangentMode: 0
+      - time: .600000024
+        value: -.477049589
+        inSlope: 1.4100498
+        outSlope: 1.4100498
+        tangentMode: 0
+      - time: .800000012
+        value: -.190106422
+        inSlope: 1.25635839
+        outSlope: 1.25635839
+        tangentMode: 0
+      - time: 1
+        value: .0254937634
+        inSlope: .715732336
+        outSlope: .715732336
+        tangentMode: 0
+      - time: 1.20000005
+        value: .0961865187
+        inSlope: .0884616673
+        outSlope: .0884616673
+        tangentMode: 0
+      - time: 1.4000001
+        value: .0608784407
+        inSlope: -.176731855
+        outSlope: -.176731855
+        tangentMode: 0
+      - time: 1.60000014
+        value: .0254937634
+        inSlope: -.0884616747
+        outSlope: -.0884616747
+        tangentMode: 0
+      - time: 1.80000019
+        value: .0254937634
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.00000024
+        value: .0254937634
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.20000029
+        value: .0254937634
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.40000033
+        value: .0254937634
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.60000038
+        value: .0254937634
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 2.80000043
+        value: .0254937634
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.00000048
+        value: .0254937634
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3.20000005
+        value: .0254937634
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalRotation.w
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.60000002
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.276977539
+        inSlope: -182.644714
+        outSlope: -182.644714
+        tangentMode: 10
+      - time: 1
+        value: -182.921692
+        inSlope: -91.3223572
+        outSlope: -91.3223572
+        tangentMode: 10
+      - time: 1.60000002
+        value: -182.921692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 1.79999995
+        value: -182.921692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2
+        value: -182.921692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.20000005
+        value: -182.921692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: -182.921692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: -182.921692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: -182.921692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: -182.921692
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW paper fire left
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 353.100677
+        inSlope: -82.2434845
+        outSlope: -82.2434845
+        tangentMode: 10
+      - time: 2.22000003
+        value: 170.520142
+        inSlope: Infinity
+        outSlope: -39.1244011
+        tangentMode: 1
+      - time: 2.79999995
+        value: 170.520142
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 170.520142
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 170.520142
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW fist
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.x
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.22000003
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 2.79999995
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.y
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -.338012695
+        inSlope: -79.9729919
+        outSlope: -79.9729919
+        tangentMode: 10
+      - time: 2.22000003
+        value: -177.878052
+        inSlope: Infinity
+        outSlope: -38.0442963
+        tangentMode: 1
+      - time: 2.79999995
+        value: -177.878052
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3
+        value: -177.878052
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 3.20000005
+        value: -177.878052
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: localEulerAnglesBaked.z
+    path: Counter Enemy Parts/ROCKPAPERELBOW/ROCKPAPERELBOW forearm
+    classID: 4
+    script: {fileID: 0}
+  m_Events:
+  - time: .449999988
+    functionName: RPEcallout
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 1.2833333
+    functionName: RPEcallout
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 2.23333335
+    functionName: RPEcallout
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 3.20000005
+    functionName: randomRPE
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

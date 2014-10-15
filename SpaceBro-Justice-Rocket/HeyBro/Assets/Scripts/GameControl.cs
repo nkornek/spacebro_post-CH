@@ -62,7 +62,7 @@ public class GameControl : MonoBehaviour {
 				Invoke ("loadSplashScreen", 5.0f);
 				paused = true;
 				prompts.win ();
-				enemyAnimations.SetTrigger("Laugh");
+				enemyAnimations.SetTrigger("ZeroHealth");
 
 			}
 			
@@ -70,7 +70,7 @@ public class GameControl : MonoBehaviour {
 				Invoke ("loadSplashScreen", 5.0f);
 				paused = true;
 				prompts.lose ();
-				enemyAnimations.SetTrigger("ZeroHealth");
+				enemyAnimations.SetTrigger("Laugh");
 			}
 		}
 

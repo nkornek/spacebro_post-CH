@@ -13,6 +13,10 @@ public class Menu_Music : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		if (Application.loadedLevel == 2)
+		{
+			Destroy(gameObject);
+		}
 	
 	}
 

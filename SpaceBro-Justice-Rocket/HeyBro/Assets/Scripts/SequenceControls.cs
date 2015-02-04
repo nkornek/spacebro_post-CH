@@ -131,8 +131,11 @@ public class SequenceControls : MonoBehaviour {
 		}
 	
 	public void onSuccess() {
-		playerLeft.moveSuccess ();
-		playerRight.moveSuccess ();
+		if (!game.counterActive)
+		{
+			playerLeft.moveSuccess ();
+			playerRight.moveSuccess ();
+		}
 	}
 
 	/* --------------------------------------------------------------------------------------------------------------------------

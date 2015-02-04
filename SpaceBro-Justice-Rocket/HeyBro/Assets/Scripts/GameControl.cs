@@ -223,7 +223,6 @@ public class GameControl : MonoBehaviour {
 					prompts.showPrompt(3);
 					canCounter = false;
 					player.defending = false;
-					//counterNum = Random.Range (1, 4);
 					counterNum = attackNum + 1;
 					if (GameObject.Find ("Counters"))
 					{

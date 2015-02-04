@@ -61,7 +61,7 @@ public class ArduinoRead : MonoBehaviour {
 			inputted2 = false; 
 		}
 		
-		print ("in1 = " + in1 + ", in2 = " + in2);
+		//print ("in1 = " + in1 + ", in2 = " + in2);
 		
 		current = int.Parse (sp.ReadLine()); 
 		

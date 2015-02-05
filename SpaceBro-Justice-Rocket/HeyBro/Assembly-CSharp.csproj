@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AudioControl.cs" />
      <Compile Include="Assets\Enemy_Sounds.cs" />
      <Compile Include="Assets\ExplosionSounds.cs" />
      <Compile Include="Assets\Prompts.cs" />
@@ -73,11 +74,9 @@
      <Compile Include="Assets\Scripts\Sound_Triggers_Players.cs" />
      <Compile Include="Assets\Scripts\SplashControl.cs" />
      <Compile Include="Assets\Scripts\StarSpeedControl.cs" />
-     <Compile Include="Assets\Scripts\Webcam.cs" />
      <Compile Include="Assets\Scripts\cameraShake.cs" />
      <Compile Include="Assets\Scripts\menu_anim_triggers.cs" />
      <Compile Include="Assets\Scripts\scrollingmaterial.cs" />
-     <Compile Include="Assets\Scripts\tripleScript.cs" />
      <None Include="Assets\Sprites\overlay.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>

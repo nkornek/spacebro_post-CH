@@ -73,7 +73,7 @@ public class CounterControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (GameManager.GetComponent<GameControl>().counterActive)
+		if (GameManager.GetComponent<GameControl>().gameTurn == GameControl.GamePhase.Counter)
 		{
 			if (!hasResetInput) {
 				if (pictogramsInRangeBall ()) {
@@ -227,7 +227,7 @@ public class CounterControl : MonoBehaviour {
 		promptRight.GetComponent<SpriteRenderer> ().enabled = false;
 		}
 	public void endCounter () {
-		GameManager.GetComponent<GameControl>().counterActive = false;
+        GameManager.GetComponent<GameControl>().gameTurn = GameControl.GamePhase.EndEnemyAttack;
 		counterCamera.GetComponent<SmoothCamera2D> ().target = closeOutCamera;
 		CounterAnimations.IntroOutro (2);
 		}
@@ -245,7 +245,6 @@ public class CounterControl : MonoBehaviour {
 		}
 
 	public void Reset () {
-		GameObject.Find ("Game").GetComponent<GameControl> ().paused = false;
 		GameObject.Find ("Game").GetComponent<GameControl> ().Invoke ("startPlayerTurn", 1.0f);
 		Destroy (gameObject);
 		GameObject go = Instantiate(Resources.Load("Counters")) as GameObject;
@@ -280,7 +279,6 @@ public class CounterControl : MonoBehaviour {
 	public void StartCounter () {
 		mainForcefield.showField = false;
 		bgAnimator.SetTrigger ("In");	
-		GameManager.GetComponent<GameControl>().counterActive = true;
 		if (GameManager.GetComponent<GameControl>().counterNum == 1)
 		{
 			counterAnimatorEnemy.SetTrigger ("Start Ball");

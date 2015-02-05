@@ -924,8 +924,8 @@ GameObject:
   - 4: {fileID: 400174}
   - 114: {fileID: 11400010}
   - 82: {fileID: 8200000}
-  - 82: {fileID: 8200002}
   - 82: {fileID: 8200004}
+  - 114: {fileID: 11487806}
   m_Layer: 0
   m_Name: Game
   m_TagString: Untagged
@@ -1925,64 +1925,6 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
---- !u!82 &8200002
-AudioSource:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 100174}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_audioClip: {fileID: 8300000, guid: 0d7c330b4965b60459f18b6cacae407e, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    - time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
 --- !u!82 &8200004
 AudioSource:
   m_ObjectHideFlags: 1
@@ -2120,6 +2062,7 @@ Animator:
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
   m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2286,33 +2229,41 @@ MonoBehaviour:
   enemy: {fileID: 0}
   playerLeft: {fileID: 0}
   playerRight: {fileID: 0}
-  turn: 0
-  charging: 0
-  playersTurn: 0
+  mainAudio: {fileID: 0}
+  gameTurn: 0
   seqGenerated: 0
   hasResetInput: 0
-  srcSeqSound: {fileID: 8200000}
-  clipMoveSuccess: {fileID: 8300000, guid: 6c304bad6d71e8347bde0152a99829d3, type: 3}
-  clipWholeSeqSuccess: {fileID: 8300000, guid: d2cbf8407a4e8f74a94530436ef7cbc3, type: 3}
-  clipBlockSuccess: {fileID: 8300000, guid: 1172a572a003fe74296e52deac81e6df, type: 3}
-  srcRobot: {fileID: 8200002}
-  srcPlayersDie: {fileID: 8200004}
-  canTime: 0
-  tripleActive: 0
-  paused: 0
-  tripleScript: {fileID: 0}
+  mainCamera: {fileID: 0}
+  cutsceneAnim: {fileID: 0}
   enemyAnimations: {fileID: 0}
-  enemyParticleParent: {fileID: 0}
   playerParticles: {fileID: 0}
-  counterActive: 0
-  counterNum: 0
   pictogramsInRange: 0
   pictogramsFailed: 0
   canCounter: 0
-  mainCamera: {fileID: 0}
-  cutsceneAnim: {fileID: 0}
-  attackNum: 0
   prompts: {fileID: 11400004}
+  attackNum: 0
+  counterNum: 0
+  enemyParticleParent: {fileID: 0}
+--- !u!114 &11487806
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 844a2b35ff9b4094d88a8fb8cd98615b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  srcSeqSound: {fileID: 8200000}
+  winLoss: {fileID: 8200004}
+  successAudioClips:
+  - {fileID: 8300000, guid: 6c304bad6d71e8347bde0152a99829d3, type: 3}
+  - {fileID: 8300000, guid: d2cbf8407a4e8f74a94530436ef7cbc3, type: 3}
+  - {fileID: 8300000, guid: 1172a572a003fe74296e52deac81e6df, type: 3}
+  winLossClips:
+  - {fileID: 8300000, guid: c807d22f391b03048b70260e8f2c2e22, type: 3}
+  - {fileID: 8300000, guid: 0d7c330b4965b60459f18b6cacae407e, type: 3}
 --- !u!124 &12400000
 Behaviour:
   m_ObjectHideFlags: 1

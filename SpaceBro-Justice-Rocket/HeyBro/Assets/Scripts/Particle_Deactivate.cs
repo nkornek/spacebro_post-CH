@@ -31,8 +31,7 @@ public class Particle_Deactivate : MonoBehaviour {
 	public void endParticles() {
 		particle.enableEmission = false;
 		particle2.enableEmission = false;
-		attackTime = 2.0f;	
-		game.paused = false;
+        attackTime = 2.0f;
 	}
 	
 	

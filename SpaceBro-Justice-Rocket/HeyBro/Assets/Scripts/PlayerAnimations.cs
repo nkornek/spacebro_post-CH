@@ -70,7 +70,7 @@ public class PlayerAnimations : MonoBehaviour {
 	void success () {
 		resetSpeed ();
 		if (game) {
-			if (game.playersTurn)
+			if (game.gameTurn == GameControl.GamePhase.playerTurn)
 			{
 				if (player.correctMoves < player.seqMoves)
 				{
@@ -85,7 +85,7 @@ public class PlayerAnimations : MonoBehaviour {
 	}
 
 	public void nextTurn () {
-		if (game && game.playersTurn)
+        if (game && game.gameTurn == GameControl.GamePhase.playerTurn)
 		{
 			game.Invoke ("startEnemyTurn", 1f);
 		}

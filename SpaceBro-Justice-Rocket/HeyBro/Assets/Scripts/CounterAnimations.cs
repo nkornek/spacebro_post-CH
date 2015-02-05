@@ -22,7 +22,7 @@ public class CounterAnimations : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (game.counterActive == true & game.counterNum == 1)
+		if (game.gameTurn == GameControl.GamePhase.Counter & game.counterNum == 1)
 		{
 			if (energyBallObject.transform.localPosition.y > -10 & energyBallObject.transform.localPosition.y < 45)
 			{

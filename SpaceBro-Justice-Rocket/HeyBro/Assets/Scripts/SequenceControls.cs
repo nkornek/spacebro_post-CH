@@ -116,7 +116,7 @@ public class SequenceControls : MonoBehaviour {
 	}
 	
 	public void generateMove(){
-		if (!game.counterActive)
+		if (game.gameTurn != GameControl.GamePhase.Counter)
 		{
 			contactA = Random.Range (minEnum, maxEnum);
 			contactB = Random.Range (minEnum, maxEnum);
@@ -131,7 +131,7 @@ public class SequenceControls : MonoBehaviour {
 		}
 	
 	public void onSuccess() {
-		if (!game.counterActive)
+        if (game.gameTurn != GameControl.GamePhase.Counter)
 		{
 			playerLeft.moveSuccess ();
 			playerRight.moveSuccess ();
@@ -153,8 +153,7 @@ public class SequenceControls : MonoBehaviour {
 			if (defending) {
 				blocked = true;
 				GameObject.Find("Forcefield").GetComponent<Display_Forcefield>().showField = true;
-				game.srcSeqSound.clip = game.clipBlockSuccess;
-				game.srcSeqSound.Play ();
+                game.mainAudio.playASound(2);
 			}
 	 		return true;
 	 	}

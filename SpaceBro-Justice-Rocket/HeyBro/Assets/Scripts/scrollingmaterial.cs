@@ -13,6 +13,6 @@ public class scrollingmaterial : MonoBehaviour {
 	// Update is called once per frame
 	void Update () 
 	{
-		renderer.material.mainTextureOffset = new Vector2 ((Time.time * Speed)%1, 0f);
+		GetComponent<Renderer>().material.mainTextureOffset = new Vector2 ((Time.time * Speed)%1, 0f);
 	}
 }

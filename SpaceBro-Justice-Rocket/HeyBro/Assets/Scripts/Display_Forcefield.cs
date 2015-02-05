@@ -9,7 +9,7 @@ public class Display_Forcefield : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		forcefield.renderer.enabled = false;
+		forcefield.GetComponent<Renderer>().enabled = false;
 		showField = false;
 	}
 	
@@ -17,12 +17,12 @@ public class Display_Forcefield : MonoBehaviour {
 	void Update () {
 		if (showField == true)
 		{
-			forcefield.renderer.enabled = true;
+			forcefield.GetComponent<Renderer>().enabled = true;
 			forceSphere.enabled = true;
 		}
 		else if (showField == false)
 		{
-			forcefield.renderer.enabled = false;
+			forcefield.GetComponent<Renderer>().enabled = false;
 			forceSphere.enabled = false;
 		}
 

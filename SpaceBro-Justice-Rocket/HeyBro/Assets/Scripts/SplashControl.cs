@@ -7,7 +7,7 @@ public class SplashControl : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Screen.showCursor = false;
+		Cursor.visible = false;
 		Invoke ("fadeOut", 2);
 		loader = GameObject.Find ("loading").GetComponent<SpriteRenderer> ();
 	

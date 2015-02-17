@@ -385,5 +385,7 @@ PlayerSettings:
   WebGL::dataCaching: 0
   stringPropertyNames:
   - WebGL::emscriptenArgs
+  - WebGL::template
   WebGL::emscriptenArgs: 
+  WebGL::template: APPLICATION:Default
   firstStreamedLevelWithResources: 0

@@ -9,7 +9,7 @@ public class HealthBarPlayer : MonoBehaviour {
 	
 	public float curPerc;
 	public float targetPerc;
-	public GameObject barRight, healthBar;
+	public GameObject barRight;
 	public bool CanFadeIn, fadeSwitch;
 	public float alpha;
 	
@@ -18,7 +18,7 @@ public class HealthBarPlayer : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		player = GameObject.Find ("Players").GetComponent<SequenceControls>();
+
 		curPerc = 0f;
 		targetPerc = 1f;
 		CanFadeIn = false;

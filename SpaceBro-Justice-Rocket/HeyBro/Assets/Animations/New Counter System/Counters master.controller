@@ -20,7 +20,7 @@ AnimatorController:
     m_DefaultWeight: 0
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
-    m_Controller: {fileID: 0}
+    m_Controller: {fileID: 9100000}
   m_MultiThreadedStateMachine: 1
 --- !u!206 &20671038
 BlendTree:
@@ -963,20 +963,20 @@ AnimatorStateMachine:
       first: {fileID: 0}
       second: []
     data:
-      first: {fileID: 110717674}
-      second:
-      - {fileID: 110996252}
-    data:
-      first: {fileID: 110759112}
-      second:
-      - {fileID: 110941242}
+      first: {fileID: 110711092}
+      second: []
     data:
       first: {fileID: 110753774}
       second:
       - {fileID: 110962480}
     data:
-      first: {fileID: 110711092}
-      second: []
+      first: {fileID: 110759112}
+      second:
+      - {fileID: 110941242}
+    data:
+      first: {fileID: 110717674}
+      second:
+      - {fileID: 110996252}
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: -264, y: 36, z: 0}
   m_EntryPosition: {x: 120, y: -312, z: 0}
@@ -1006,12 +1006,15 @@ AnimatorStateMachine:
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
-  m_StateMachineTransitions: {}
+  m_StateMachineTransitions:
+    data:
+      first: {fileID: 110711092}
+      second: []
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: -132, y: 72, z: 0}
   m_EntryPosition: {x: 228, y: -228, z: 0}
   m_ExitPosition: {x: 240, y: 240, z: 0}
-  m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
+  m_ParentStateMachinePosition: {x: 480, y: 240, z: 0}
   m_DefaultState: {fileID: 110271144}
 --- !u!1107 &110753774
 AnimatorStateMachine:
@@ -1068,9 +1071,6 @@ AnimatorStateMachine:
       second: []
     data:
       first: {fileID: 110711092}
-      second: []
-    data:
-      first: {fileID: 0}
       second: []
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: -36, y: -264, z: 0}

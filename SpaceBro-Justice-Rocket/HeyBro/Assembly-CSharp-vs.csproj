@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\AudioControl.cs" />
+     <Compile Include="Assets\CounterAnimationTriggers.cs" />
      <Compile Include="Assets\Enemy_Sounds.cs" />
      <Compile Include="Assets\EnergyballPulsate.cs" />
      <Compile Include="Assets\ExplosionSounds.cs" />

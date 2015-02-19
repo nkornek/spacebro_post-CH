@@ -16,7 +16,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1 &182124
 GameObject:
   m_ObjectHideFlags: 0
@@ -269,7 +269,7 @@ ParticleSystem:
     enabled: 1
     type: 4
     radius: .0399999991
-    angle: 6.42714167
+    angle: 9
     length: 5
     boxX: 1
     boxY: 1
@@ -1242,7 +1242,7 @@ ParticleSystem:
     enabled: 1
     type: 4
     radius: .0399999991
-    angle: 6.42714167
+    angle: 10
     length: 5
     boxX: 1
     boxY: 1

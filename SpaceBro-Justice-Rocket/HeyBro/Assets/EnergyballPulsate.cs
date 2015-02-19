@@ -14,19 +14,19 @@ public class EnergyballPulsate : MonoBehaviour {
 	void Update () {
 		if (growing)
 		{
-			transform.localScale = Vector2.Lerp(transform.localScale, new Vector2(1.1f, 1.1f), 0.5f);
+			transform.localScale = Vector2.Lerp(transform.localScale, new Vector2(1.05f, 1.05f), 0.4f);
 		}
 		else
 		{
-			transform.localScale = Vector2.Lerp(transform.localScale, new Vector2(0.9f, 0.9f), 0.5f);
+			transform.localScale = Vector2.Lerp(transform.localScale, new Vector2(0.95f, 0.95f), 0.4f);
 		}
 
 		//swap growing
-		if (growing && transform.localScale.x > 1.095f)
+		if (growing && transform.localScale.x > 1.045f)
 		{
 			growing = false;
 		}
-		if (!growing && transform.localScale.x < 0.95f)
+		if (!growing && transform.localScale.x < 0.955f)
 		{
 			growing = true;
 		}

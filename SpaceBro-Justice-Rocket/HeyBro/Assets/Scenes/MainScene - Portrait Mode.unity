@@ -240,7 +240,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100138, guid: 2916b188e77c1c24f911e03c7cdce4ef, type: 2}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 11400014, guid: 2916b188e77c1c24f911e03c7cdce4ef, type: 2}
@@ -2963,7 +2963,6 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 1527020682}
-  - 95: {fileID: 1527020683}
   m_Layer: 0
   m_Name: Main Game Items
   m_TagString: Untagged
@@ -2986,23 +2985,6 @@ Transform:
   - {fileID: 608541068}
   m_Father: {fileID: 0}
   m_RootOrder: 5
---- !u!95 &1527020683
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1527020681}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 499a50cbe502d4d41aad797389133f25, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
 --- !u!95 &1536569935
 Animator:
   m_PrefabParentObject: {fileID: 9500004, guid: 0d5693fe2544bf944a47f43575838c3e,

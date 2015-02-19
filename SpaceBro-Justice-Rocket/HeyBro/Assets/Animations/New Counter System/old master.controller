@@ -5,7 +5,7 @@ AnimatorController:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Master Animator
+  m_Name: old master
   serializedVersion: 5
   m_AnimatorParameters:
   - m_Name: CounterActive
@@ -40,9 +40,6 @@ AnimatorStateMachine:
   m_AnyStateTransitions: []
   m_EntryTransitions: []
   m_StateMachineTransitions:
-    data:
-      first: {fileID: 0}
-      second: []
     data:
       first: {fileID: 0}
       second: []
